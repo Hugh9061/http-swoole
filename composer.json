@@ -1,0 +1,26 @@
+{
+  "name": "lin/seven",
+  "description": "swooleq framework",
+  "type": "library",
+  "keywords": [
+    "php",
+    "swoole"
+  ],
+  "require": {
+    "php": ">=7.0",
+    "ext-swoole" : ">=4.0"
+  },
+  "authors": [
+    {
+      "name": "Lin",
+      "email": "404885236@qq.com"
+    }
+  ],
+  "autoload": {
+    "psr-4": {
+      "Seven\\": "framework/Seven",
+      "App\\": "application"
+    }
+  },
+  "minimum-stability": "dev"
+}

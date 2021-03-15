@@ -1,0 +1,24 @@
+1.  nc
+	（1）实现任意TCP/UDP端口的侦听，nc可以作为server以TCP或UDP方式侦听指定端口
+	（2）端口的扫描，nc可以作为client发起TCP或UDP连接     
+		1.  nc  www.baidu.com 80
+		2.  GET / HTTP/1.0
+	（3）机器之间传输文件
+	（4）机器之间网络测速  
+
+2. netstat   命令用于显示与IP、TCP、UDP和ICMP协议相关的统计数据
+
+3. ss  用来获取socket统计信息
+
+4.telnet命令用于远端登入。  执行telnet指令开启终端机阶段作业，并登入远端主机。
+
+5.nmap    Nmap用于在远程机器上探测网络，执行安全扫描，网络审计和搜寻开放端口。它会扫描远程在线主机，该主机的操作系统，包过滤器和开放的端口。
+
+6. wget    下载文件命令
+
+7.curl
+
+8. yum
+ 
+
+
